@@ -15,5 +15,4 @@ public class Factory {
     public static Factory getFactory() {
         return factory;
     }
-
 }
